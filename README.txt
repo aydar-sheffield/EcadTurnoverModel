@@ -13,3 +13,5 @@ The test results are stored in the test output folder used by Chaste.
 Prior to launching either of the above scripts, a user must configure the Chaste project as described in Chaste tutorials. 
 
 Matlab scripts to analyse the data are also included. To run these, a user must edit the script files, specifying the paths to folders, containing simulations outputs.    
+
+These project files require Edge SRN infrastructure, available at Chaste/auatay_ticket_2987_ode_edges branch of aydar-sheffield github page 
